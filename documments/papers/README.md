@@ -12,8 +12,6 @@ https://www.youtube.com/watch?v=fzIx0-9Eg-E
 
 
 # Tools
-bcRep: R Package for Comprehensive Analysis of B Cell Receptor Repertoire Data
-https://www.frontiersin.org/articles/10.3389/fimmu.2019.02533/full
 
 Sumrep        https://github.com/matsengrp/sumrep
 
