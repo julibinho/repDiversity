@@ -1,5 +1,5 @@
 # Week 4: 14 Fev 2022
-* [x] Comparer les outils avec le repertoire simulé repDiversity/data/repertoires/simulations/
+* [ ] Comparer les outils avec le repertoire simulé repDiversity/data/repertoires/simulations/
 * [ ] Montrer les sorties de chaque outil et si possible les comparer
 
 
