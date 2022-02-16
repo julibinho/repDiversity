@@ -1,5 +1,5 @@
 # Week 4: 14 Fev 2022
-* [ ] Comparer les outils avec le repertoire simulé repDiversity/data/repertoires/simulations/
+* [ ] Comparer les outils avec le repertoire simulé data/repertoires/simulations/l0036_mono_simulated.fasta﻿
 * [ ] Montrer les sorties de chaque outil et si possible les comparer
 
 
